@@ -5,6 +5,7 @@ body {
 }
 * a {
   text-decoration: none !important;
+  text-underline-offset: 4px;
 }
 .no-break {
   word-break: keep-all;
