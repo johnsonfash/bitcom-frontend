@@ -1,6 +1,9 @@
 const ENUM = Object.freeze({
-  BASE_URL: "http://localhost:3000",
-  DB_NAME: "tribesquare-tasks",
+  BASE_URL: "https://bitcom.onrender.com",
+  LGA: "/lgas",
+  CREATE_RESULT: "/polling-units/create",
+  AGENTS: "/agents",
+  POLLING_UNIT: "/polling-units",
 });
 
 export default ENUM;
